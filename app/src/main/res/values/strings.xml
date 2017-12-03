@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CropReceiptDemo</string>
+    <string name="capture_your_receipt">Capture Your Receipt</string>
+    <string name="choose_receipt_from_gallery">Choose Receipt From Gallery</string>
+    <string name="crop">Crop</string>
+    <string name="capture_receipt">Capture Receipt Demo</string>
+    <string name="crop_receipt">Crop Receipt</string>
+    <string name="review_receipt">Review Receipt</string>
+</resources>
